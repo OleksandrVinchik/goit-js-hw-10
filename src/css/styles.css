@@ -109,3 +109,8 @@ form {
 .but:hover {
   background: #0056b3;
 }
+
+.lab {
+  display: flex;
+  flex-direction: column;
+}
